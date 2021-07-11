@@ -42,7 +42,7 @@ Medical imaging is a crucial tool used in healthcare settings to assist in the d
 </br>
 </p>
 For full theory and background on the the techniques used in these algorithms, please see our full project write-up:
-[here](https://drive.google.com/file/d/19TvjEQ3iRs9mDEMU79QRSca_xMjK9h8u/view?usp=sharing)
+[MATLAB2020a](https://www.mathworks.com/products/new_products/release2020a.html?s_tid=srchtitle)
 </br>
 
 ### Built With
