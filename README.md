@@ -72,13 +72,13 @@ To get a local copy up and running follow these simple steps.
 The entire system can be ran from the [Main.m](https://github.com/MedviewRobotics/tracking-algorithm/blob/main/Accuracy%20and%20Performance/Main.m) file in the Accuracy and Performance folder. By default the system will read in one of the trial videos that we have prepared for demonstration purposes.
 </br>
 </br>
-A full demonstration of the code and system overview can be found [here!](https://drive.google.com/file/d/1_XPp7Msm0ABWXXz6eFeGKVfyWz81GJaR/view?usp=sharing)
+A full demonstration of the code and system overview can be found [here](https://drive.google.com/file/d/1_XPp7Msm0ABWXXz6eFeGKVfyWz81GJaR/view?usp=sharing)!
 
 
 <!-- CONTACT -->
 ## Contact
 
-1. Johnny Libenzo - [LinkedIn](https://www.linkedin.com/in/johnny-libenzon/)
+1. Johnny Libenzon - [LinkedIn](https://www.linkedin.com/in/johnny-libenzon/)
 2. Ginette Hartell - [LinkedIn](https://www.linkedin.com/in/ginette-hartell/)
 
 <!-- ACKNOWLEDGEMENTS -->
