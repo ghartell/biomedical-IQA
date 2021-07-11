@@ -41,7 +41,8 @@
 Medical imaging is a crucial tool used in healthcare settings to assist in the diagnosis of countless pathologies. Medical image quality is pivotal for effective and correct diagnosis, and as such, image quality analysis (IQA) has become an important field in the biomedical industry . This paper will feature a solution for the automatic extraction and evaluation of three features associated with image quality: (1) noise, (2) contrast, and (3) edge quality. These quality evaluation parameters can then be used for assessment of new medical imaging hardware, software, and preprocessing algorithms to understand their effect on image quality. In addition, quality information for an image can be an important input to adaptive image enhancement algorithms. For example, a denoising algorithm can be tailored to the amount of noise present in the image before processing and be able to perform superior noise-removal as a result.
 </br>
 </p>
-For full theory and background on the the techniques used in these algorithms, please see our full project write-up [here](https://drive.google.com/file/d/19TvjEQ3iRs9mDEMU79QRSca_xMjK9h8u/view?usp=sharing) !
+For full theory and background on the the techniques used in these algorithms, please see our full project write-up:
+[here](https://drive.google.com/file/d/19TvjEQ3iRs9mDEMU79QRSca_xMjK9h8u/view?usp=sharing)
 </br>
 
 ### Built With
